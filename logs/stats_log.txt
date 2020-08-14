@@ -1,0 +1,31 @@
+
+
+[2020-08-12 20:20:07] [AppID 383120] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2020-08-12 20:30:59] [AppID 383120] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+
+
+[2020-08-12 20:43:58] [AppID 383120] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2020-08-13 00:35:50] [AppID 383120] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2020-08-13 00:37:56] [AppID 383120] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+
+
+[2020-08-13 18:44:04] [AppID 383120] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2020-08-13 19:24:24] [AppID 383120] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+
+
+[2020-08-14 02:04:30] [AppID 383120] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+
+
+[2020-08-14 14:10:57] [AppID 383120] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2020-08-14 14:14:12] [AppID 383120] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2020-08-14 14:17:23] [AppID 383120] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2020-08-14 14:43:02] [AppID 383120] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2020-08-14 14:48:46] [AppID 383120] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2020-08-14 15:03:50] [AppID 383120] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+
+
+[2020-08-14 15:07:41] [AppID 383120] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2020-08-14 16:04:33] [AppID 383120] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2020-08-14 16:33:17] [AppID 383120] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2020-08-14 16:58:42] [AppID 383120] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2020-08-14 17:02:19] [AppID 383120] CAPIJobStoreUserStats::BInit() - no stats found, aborting
